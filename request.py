@@ -1,6 +1,9 @@
 #!/bin/python3
+# I created this script in order to successfully comlplete a challenge on a recent CTF I participated in
+# MEISTSEC
+# 10/2022
 
-import requests, time
+import requests
 
 x = requests.get('http://10.10.100.200:40589/number/')
 
