@@ -1,5 +1,5 @@
 #!/bin/python3
-# I created this script in order to successfully comlplete a challenge on a recent CTF I participated in
+# I created this script in order to successfully complete a challenge on a CTF I was participating in
 # MEISTSEC
 # 10/2022
 
